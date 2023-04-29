@@ -1,1 +1,1 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikeyasuman&show_icons=true&theme=dark)](https://github.com/kartikeyasuman)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikeyasuman&show_icons=true&theme=dark&title_color=fff&title=My+GitHub+Stats&bg_color=30,e96443,904e95&text_color=fff&count_private=true&langs_count=10&langs_icon=fa5:star&langs_color=fff)](https://github.com/kartikeyasuman)
